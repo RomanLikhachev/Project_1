@@ -5,5 +5,5 @@ using namespece std:
 
 main(){
   cout<<"Hello, World";
-}
   system(pause);
+}
